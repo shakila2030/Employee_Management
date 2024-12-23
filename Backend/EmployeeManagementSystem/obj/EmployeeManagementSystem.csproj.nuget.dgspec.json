@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OMEN\\Documents\\GitHub\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {}
+    "D:\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OMEN\\Documents\\GitHub\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {
+    "D:\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OMEN\\Documents\\GitHub\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+        "projectUniqueName": "D:\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
         "projectName": "EmployeeManagementSystem",
-        "projectPath": "C:\\Users\\OMEN\\Documents\\GitHub\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\OMEN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OMEN\\Documents\\GitHub\\Employee_Management\\Backend\\EmployeeManagementSystem\\obj\\",
+        "projectPath": "D:\\Employee_Management\\Backend\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\Rashini\\.nuget\\packages\\",
+        "outputPath": "D:\\Employee_Management\\Backend\\EmployeeManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OMEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rashini\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
